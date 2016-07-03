@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4273183
+color:
+  saturation: 0.8276942
+  lightness: 0.2155388
+  brandStrength: 0.9154459
+  brandColors:
+    - '#000000'
+    - '#0000FE'
+    - '#0000C0'
+    - '#00006A'
+    - '#000040'
+  rhythmicContrast: 0.9511278
+name: cib Ventures
